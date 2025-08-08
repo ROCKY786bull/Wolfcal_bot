@@ -5,8 +5,8 @@ import telebot
 import schedule
 import time
 
-TELEGRAM_BOT_TOKEN = 8366543245:AAGa7yRavwa4pmlP5UAefJ_GQNpaCJFVumk
-TELEGRAM_CHAT_ID = 1360729788
+TELEGRAM_BOT_TOKEN =
+TELEGRAM_CHAT_ID 
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
